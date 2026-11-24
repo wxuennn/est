@@ -1,4 +1,4 @@
-import streamlit as at
+import streamlit as st
 
 st.title("My App")
 if st.button("Greet"):
